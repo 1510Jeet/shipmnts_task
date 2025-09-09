@@ -78,7 +78,6 @@ Once the server is running, you can access the interactive API documentation (pr
 ## Available Endpoints
 
 - `GET /` - Returns a welcome message
-- `GET /items/{item_id}` - Retrieves an item by ID with optional query parameter
 
 ## Dependencies
 
